@@ -2,7 +2,7 @@
   "name": "Style Colour",
   "version": "1.0",
   "description": "Changes the body colour",
-  "permissions": ["storage"],
+  "permissions": ["storage","activeTab","tabs"],
   "background": {
     "scripts": ["background.js"],
     "persistent": false

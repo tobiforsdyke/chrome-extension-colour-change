@@ -4,4 +4,4 @@ chrome.runtime.onInstalled.addListener(function() {
           console.log('colour was stored in storage');
         });
 
-  });
+});
