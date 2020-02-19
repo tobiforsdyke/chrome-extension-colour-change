@@ -1,0 +1,35 @@
+body { width: 350px; }
+h1 { color: blue; padding: 15px; }
+#blueBTN{
+  background-color: #1d8ed0;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+}
+#greenBTN{
+  background-color: green;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+}
+#blackBTN{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+}
