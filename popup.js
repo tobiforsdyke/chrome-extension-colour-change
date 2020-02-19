@@ -1,6 +1,7 @@
 let blueBTN = document.getElementById('blueBTN');
 let greenBTN = document.getElementById('greenBTN');
 let blackBTN = document.getElementById('blackBTN');
+let whiteBTN = document.getElementById('whiteBTN');
 let extensionNameH1 = document.getElementById('extensionNameH1');
 
 var changeColour = function(colour){
@@ -20,6 +21,9 @@ greenBTN.addEventListener('click', function(e){
 });
 blackBTN.addEventListener('click', function(e){
   changeColour('black');
+});
+whiteBTN.addEventListener('click', function(e){
+  changeColour('white');
 });
 
 function load_extension_name(){

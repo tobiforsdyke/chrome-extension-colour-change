@@ -1,5 +1,6 @@
-body { width: 350px; }
+body { width: 230px; }
 h1 { color: blue; padding: 15px; }
+
 #blueBTN{
   background-color: #1d8ed0;
   color: white;
@@ -25,6 +26,17 @@ h1 { color: blue; padding: 15px; }
 #blackBTN{
   background-color: black;
   color: white;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+  width: 100px;
+}
+#whiteBTN{
+  background-color: white;
+  color: black;
   padding: 10px;
   margin: 5px;
   text-align: center;
